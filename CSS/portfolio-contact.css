@@ -1,0 +1,32 @@
+@media screen and (max-width: 500px)
+{
+#contact {
+    font-size: 0.5rem;
+}
+}
+
+#contact{
+    margin-top: 10%;
+    background-color: #1f1f1f;
+    width: 100%;
+    text-align: center;
+    
+}
+
+#contact i{
+    font-size: 5rem;
+}
+
+.contact-icons-01{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 3%;
+}
+
+.contact-icons-02{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 3%;
+}
