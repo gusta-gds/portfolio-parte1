@@ -31,8 +31,8 @@ Este site foi criado com aplicação de **HTML**, **CSS**, **Flexbox**, **respon
 
 ## 🔗 Acesso ao Projeto
 
-- **GitHub Pages:** [Clique aqui para acessar o site](https://seuusuario.github.io/nome-do-repositorio/)
-- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/seuusuario/nome-do-repositorio)
+- **GitHub Pages:** [https://gusta-gds.github.io/portfolio-parte1]
+- **Repositório GitHub:** [https://github.com/gusta-gds/portfolio-parte1]
 
 ---
 
